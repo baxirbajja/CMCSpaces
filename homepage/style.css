@@ -1,0 +1,219 @@
+.home {
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.home .div {
+  background-color: #ffffff;
+  height: 1024px;
+  position: relative;
+  width: 1440px;
+}
+
+.home .text-wrapper {
+  color: #0a1942;
+  font-family: "Inter-Regular", Helvetica;
+  font-size: 12px;
+  font-weight: 400;
+  left: 863px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 55px;
+  width: 54px;
+}
+
+.home .text-wrapper-2 {
+  color: #0a1942;
+  font-family: "Inter-Regular", Helvetica;
+  font-size: 12px;
+  font-weight: 400;
+  left: 796px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 55px;
+  width: 54px;
+}
+
+.home .overlap-group {
+  height: 23px;
+  left: 926px;
+  position: absolute;
+  top: 56px;
+  width: 187px;
+}
+
+.home .text-wrapper-3 {
+  color: #0a1942;
+  font-family: "Inter-Regular", Helvetica;
+  font-size: 12px;
+  font-weight: 400;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+  width: 100px;
+}
+
+.home .text-wrapper-4 {
+  color: #0a1942;
+  font-family: "Inter-Regular", Helvetica;
+  font-size: 12px;
+  font-weight: 400;
+  left: 87px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+  width: 100px;
+}
+
+.home .ESPACES-CMC {
+  color: transparent;
+  font-family: "Inter-Black", Helvetica;
+  font-size: 48px;
+  font-weight: 900;
+  left: 43px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 263px;
+  transform: rotate(-0.69deg);
+  width: 402px;
+}
+
+.home .span {
+  color: #0a1942;
+}
+
+.home .text-wrapper-5 {
+  color: #ff7a30;
+}
+
+.home .overlap {
+  height: 26px;
+  left: 1234px;
+  position: absolute;
+  top: 55px;
+  width: 132px;
+}
+
+.home .p {
+  color: #0a1942;
+  font-family: "Inter-Regular", Helvetica;
+  font-size: 12px;
+  font-weight: 400;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 3px;
+  width: 123px;
+}
+
+.home .vector {
+  height: 22px;
+  left: 110px;
+  position: absolute;
+  top: 0;
+  width: 22px;
+}
+
+.home .group {
+  height: 20px;
+  left: 1210px;
+  position: absolute;
+  top: 57px;
+  width: 20px;
+}
+
+.home .img {
+  height: 20px;
+  left: 1370px;
+  position: absolute;
+  top: 57px;
+  width: 20px;
+}
+
+.home .rectangle {
+  height: 594px;
+  left: 493px;
+  object-fit: cover;
+  position: absolute;
+  top: 160px;
+  width: 286px;
+}
+
+.home .rectangle-2 {
+  height: 118px;
+  left: 114px;
+  object-fit: cover;
+  position: absolute;
+  top: 42px;
+  width: 130px;
+}
+
+.home .captura-de-pantalla {
+  height: 596px;
+  left: 1134px;
+  object-fit: cover;
+  position: absolute;
+  top: 160px;
+  width: 306px;
+}
+
+.home .captura-de-pantalla-2 {
+  height: 596px;
+  left: 799px;
+  object-fit: cover;
+  position: absolute;
+  top: 160px;
+  width: 315px;
+}
+
+.home .image {
+  height: 50px;
+  left: 1296px;
+  object-fit: cover;
+  position: absolute;
+  top: 863px;
+  width: 76px;
+}
+
+.home .button-instance {
+  background-color: #ff7a30 !important;
+  display: flex !important;
+  height: 45px !important;
+  left: 75px !important;
+  position: absolute !important;
+  top: 498px !important;
+  width: 170px !important;
+}
+
+.home .design-component-instance-node {
+  margin-left: -7px !important;
+  margin-right: -7px !important;
+  margin-top: unset !important;
+  text-align: unset !important;
+}
+
+.home .button-2 {
+  background-color: #2b9cb8 !important;
+  display: flex !important;
+  height: 45px !important;
+  left: 265px !important;
+  position: absolute !important;
+  top: 498px !important;
+  width: 170px !important;
+}
+
+.home .button-3 {
+  margin-top: unset !important;
+  text-align: unset !important;
+}
