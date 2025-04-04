@@ -39,7 +39,7 @@ function App() {
         <Route path="/reserver/:id" element={<Reservation />} />
         <Route path="/contact" element={<Contact />} />
         <Route path="/cmc" element={<CMC />} />
-        <Route path="/admin/login" element={<Login onLogin={handleLogin} />} />
+        <Route path="/admin/login" element={<Login />} />
         <Route
           path="/admin/spaces"
           element={
