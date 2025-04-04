@@ -16,6 +16,8 @@ createRoot(document.getElementById("root")).render(
       >
         CMC Rabat
       </a>
+       <span>  | </span>
+      <a href="/admin/login">Admin </a>
     </h4>
   </StrictMode>
 );
